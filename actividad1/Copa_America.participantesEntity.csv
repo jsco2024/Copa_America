@@ -1,0 +1,2 @@
+_id,name,lastName,email,status,userCreate,userUpdate,dateTimeCreate,dateTimeUpdate,_class
+673aa1873bb1330dcc2cdcc0,Santiago,Portela Patiño,santi.portela@hotmail.com,true,Johan,johan,Sun Nov 17 21:08:07 COT 2024,Sun Nov 17 21:09:21 COT 2024,com.Actividad1.entity.ParticipantesEntity
